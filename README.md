@@ -1,2 +1,2 @@
-# kalkulator
-hituungg
+kalkulator
+python
